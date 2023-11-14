@@ -28,7 +28,7 @@ const Navbar = () => {
           <Link href="/">Home</Link>
 
           <div className="relative flex justify-center items-center gap-2 group h-[75px]">
-            <Link href="/Artikel">
+            <Link href="/InformasiKesehatan">
               <p>Artikel</p>
             </Link>
             <BiChevronDown size={25} className="transform-gpu transition-transform group-hover:rotate-180"/>
