@@ -31,18 +31,6 @@ const Navbar = () => {
             <Link href="/InformasiKesehatan">
               <p>Artikel</p>
             </Link>
-            <BiChevronDown size={25} className="transform-gpu transition-transform group-hover:rotate-180"/>
-            <div className="hidden group-hover:flex border absolute top-[77px] left-0 w-[250px] bg-white shadow-lg px-8 flex-col justify-center py-4 z-10 rounded-md">
-              <Link href="/">
-                <div className="py-2 hover:text-blue-500">Index Masa Tubuh</div>
-              </Link>
-              <Link href="/">
-                <div className="py-2 hover:text-blue-500 whitespace-nowrap">Asupan Air</div>
-              </Link>
-              <Link href="/">
-                <div className="py-2 hover:text-blue-500 whitespace-nowrap">Asupan Kalori</div>
-              </Link>
-            </div>
           </div>
 
           <div className="relative flex justify-center items-center gap-2 group h-[75px]">

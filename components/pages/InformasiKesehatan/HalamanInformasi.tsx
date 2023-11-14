@@ -21,7 +21,7 @@ const HalamanInformasi = () => {
           <div className='flex flex-row gap-20 rounded-2xl px-10 py-4 bg-[#4bb6be]'>
             <div className='flex flex-col gap-4'>
               <div className=''>
-                <a href="#" className='font-bold text-white hover:text-[#207183]'>
+                <a href="/InformasiKesehatan/KategoriArtikel" className='font-bold text-white hover:text-[#207183]'>
                   HIDUP SEHAT
                 </a>
               </div>
